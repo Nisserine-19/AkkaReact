@@ -10,6 +10,7 @@ const Home = () => {
     setRadioButtonValue(event.target.value);
   };
 
+  
   const SliderHandleChange = (event) => {
     setSliderValue(event.target.value);
   };
